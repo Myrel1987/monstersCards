@@ -1,8 +1,8 @@
 {
-  "name": "monsters-rolodex",
+  "name": "robots-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zhangmyihua.github.io/monsters-rolodex-complete/",
+  "homepage": "https://github.com/Myrel1987/monstersCards",
   "dependencies": {
     "gh-pages": "2.0.1",
     "react": "^16.8.6",
